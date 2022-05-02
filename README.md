@@ -1,6 +1,6 @@
 # projects
 
-<p class="text">ola</p>
+<p style="color: red;">ola</p>
 
 | | | | | |
 | --- | --- | --- | --- | --- |
@@ -11,8 +11,5 @@
 <style>
     .img {
         width: 10%;
-    }
-    .text {
-        color: red;
     }
 </style>
