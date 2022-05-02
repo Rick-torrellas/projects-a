@@ -1,5 +1,7 @@
 # projects
 
+<p class="text">ola</p>
+
 | | | | | |
 | --- | --- | --- | --- | --- |
 | <img class="img" src="https://res.cloudinary.com/rick-rick-torrellas/image/upload/v1651342021/projects/pages/paper_xw7u0z.png"/> [pages](https://rick-torrellas.github.io/pages) - [repo](https://github.com/Rick-torrellas/pages) | <img class="img" src=""/> [mermory card](https://rick-torrellas.github.io/memory-card) - [repo](https://github.com/Rick-torrellas/memory-card) | <img class="img" src=""/> [link](https://rick-torrellas.github.io/link) - [repo](https://github.com/Rick-torrellas/link) | <img class="img" src=""/> [key](https://rick-torrellas.github.io/key) - [repo](https://github.com/Rick-torrellas/key) | <img class="img" src=""/> [static](https://rick-torrellas.github.io/static) - [repo](https://github.com/Rick-torrellas/static) |
@@ -9,5 +11,8 @@
 <style>
     .img {
         width: 10%;
+    }
+    .text {
+        color: red;
     }
 </style>
